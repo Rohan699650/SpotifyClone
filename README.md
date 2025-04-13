@@ -4,7 +4,7 @@ A visually appealing **Spotify landing page clone** built using **HTML** and **C
 This project focuses on recreating the front-end UI of Spotify’s homepage for learning and practice.
 
 ---
-
+https://spotifycln07.netlify.app/
 ## 🎨 Features
 
 - 🎵 Clean and modern Spotify UI layout
